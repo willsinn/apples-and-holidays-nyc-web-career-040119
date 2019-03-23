@@ -24,7 +24,7 @@ end
 def add_supply_to_winter_holidays(holiday_hash, supply_array)
     holiday_hash[:winter].each do |holiday, supplies|
     supplies << supply
-  end(supply) => ["Lights", "Wreath"]
+  end
 end
 
 
